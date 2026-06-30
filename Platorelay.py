@@ -4,7 +4,7 @@
 # you can make it better, idk how plato is detecting it tbh (or if its detected or my proxies are detected)
 # maybe when i tried the issues was my proxies getting detected, maybe works for mass solvig, maybe not
 
-# Thanks to the bbg Verity for the help (https://discord.com/user/1517355254117568595) <@1517355254117568595>
+# Thanks to ajyates for the origional bypass to improve upon!
 # sorry for my bad english and lack of comments, bing.ai is retarded and i don't want to waste my time explaining this code, if you want to understand it, read it and understand it yourself
 
 from curl_cffi import requests as cffi_requests
