@@ -2,12 +2,12 @@ Better Meta, Stream, Bypass handeling, Mutli checkpoint support.
 
 ## Install requirements
 
-```
+```py
 pip install curl_cffi requests pycryptodome cryptography numpy Pillow
 ```
 ---
 ## Simple Usage
-```
+```bash
 python3 deltax.py
 ```
 
