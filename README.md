@@ -26,6 +26,7 @@ token = deltax.get_token()
 print(token)  # 7b574a58d3c14928828df590...
 
 ```
+---
 
 Origional: https://github.com/ajyats/deltax_bypass
 
