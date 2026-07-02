@@ -1,6 +1,14 @@
 Better Meta, Stream, Bypass handeling, Mutli checkpoint support.
 
-**Usage for skids:**
+## Install requirements
+
+```
+pip install curl_cffi requests pycryptodome cryptography numpy Pillow
+```
+
+---
+
+## Usage for skids
 ```py
 import deltax
 
