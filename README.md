@@ -2,7 +2,7 @@ Better Meta, Stream, Bypass handeling, Mutli checkpoint support.
 
 ## Install requirements
 
-```py
+```bash
 pip install curl_cffi requests pycryptodome cryptography numpy Pillow
 ```
 ---
