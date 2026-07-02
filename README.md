@@ -5,10 +5,15 @@ Better Meta, Stream, Bypass handeling, Mutli checkpoint support.
 ```
 pip install curl_cffi requests pycryptodome cryptography numpy Pillow
 ```
+---
+## Simple Usage
+```
+python3 deltax.py
+```
 
 ---
 
-## Usage for skids
+## Api Usage for skids
 ```py
 import deltax
 
